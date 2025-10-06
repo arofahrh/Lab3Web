@@ -103,7 +103,7 @@ arik.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a31143da-360d-43b7-9dfe-bb16862992a6" />
 <img width="1919" height="338" alt="image" src="https://github.com/user-attachments/assets/28f83565-186f-4bf6-a083-2f96b32a5b8f" />
 
-### **5. Mengatur Margin dan Padding
+### **5. Mengatur Margin dan Padding**
 <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/1e40d753-39e5-47f6-9f52-184d18ac5175" />
 <img width="1919" height="313" alt="image" src="https://github.com/user-attachments/assets/e20310cb-ec89-4b97-950f-ac2ca6b09c83" />
 
